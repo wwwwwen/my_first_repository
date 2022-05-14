@@ -1,3 +1,8 @@
 updata count=1
 啦啦啦啦啦啦啦啦啦啦
+<<<<<<< HEAD
 kkkkkkkkkkkkk
+=======
+hhhhhhhhhh
+>>>>>>> dev
+lalalalala
